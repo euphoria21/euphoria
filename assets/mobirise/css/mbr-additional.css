@@ -478,6 +478,9 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header1-1 .mbr-section-lead {
+  font-size: 8px;
+}
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }

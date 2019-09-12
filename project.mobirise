@@ -150,14 +150,19 @@
             "overlay": true,
             "overlayOpacity": "0.7",
             "overlayColor": "#475577",
-            "contentAlign": "center",
+            "contentAlign": "left",
             "showTitle": false,
             "showText": true,
             "showButtons": false
           },
           "title": "FULL SCREEN INTRO",
           "text": "But my heart's still on fire / With a burning desire / I will find you again / Like destiny<br>I wish that you would love me / Just like yesterday, again / Without letting go of this hand / And every time my heart beats / Match your step with me again, so that I don't wander anymore<br>I feel destiny you/ I feel destiny me",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "8px"
+            }
+          }
         },
         {
           "_name": "footer1",
