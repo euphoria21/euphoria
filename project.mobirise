@@ -136,17 +136,17 @@
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1568226909-btss-rm-blesses-fans-with-new-birthday-photos-kpophit-2000x1050.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/aKSxbt-O6TA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": ""
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
             "overlayColor": "#475577",
@@ -207,8 +207,8 @@
             "showButtons": true
           },
           "title": "<font color=\"#000000\">Happy RM day</font>",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "text": ":希望一直支持我的人今天過得更好一點<br>偶爾有想做為金南俊而不是Rap Monster<br>來聽聽你的故事的想法<br>我想能更給予別人的愛<br><br><font color=\"#000000\">由於一些看不到的阻礙</font><br><font color=\"#000000\">雖然不能裝下一個人的孤單和傷心</font><br><font color=\"#000000\">所以我更投身於音樂</font><br><font color=\"#000000\">雖然不能知道你的所有孤單</font><br><font color=\"#000000\">我的表情 語氣 聲音</font><br><font color=\"#000000\">如果能抱住你的話 就好了</font>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;zh-tw&quot;&gt;&lt;p lang=&quot;ko&quot; dir=&quot;ltr&quot;&gt;🎂 감사합니다 🎂 &lt;a href=&quot;https://t.co/8CvWtaO6jl&quot;&gt;pic.twitter.com/8CvWtaO6jl&lt;/a&gt;&lt;/p&gt;&amp;mdash; 방탄소년단 (@BTS_twt) &lt;a href=&quot;https://twitter.com/BTS_twt/status/1171808339308601344?ref_src=twsrc%5Etfw&quot;&gt;2019年9月11日&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2019.09.12</a> "
         }
       ]
     },
