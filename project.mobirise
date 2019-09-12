@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 10,
+    "uniqCompNum": 11,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -135,7 +135,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             ".mbr-section-lead": {
-              "font-size": "8px"
+              "font-size": "12px"
             }
           },
           "_anchor": "header1-1",
@@ -143,7 +143,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1568226909-btss-rm-blesses-fans-with-new-birthday-photos-kpophit-2000x1050.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rm-bts-press-big-hit-entertainment-2019-billboard-2000x1322.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -153,8 +153,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#475577",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#41a85f",
             "contentAlign": "center",
             "showTitle": false,
             "showText": true,
